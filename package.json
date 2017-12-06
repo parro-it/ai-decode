@@ -1,6 +1,6 @@
 {
   "name": "ai-decode",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Decode a Buffer async iterable into a String async iterable.",
   "repository": "parro-it/ai-decode",
   "author": "Andrea Parodi <andrea@parro.it>",
